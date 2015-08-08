@@ -1,0 +1,15 @@
+ccedb0763d1be4f0915a1ad772d02d69 *DESCRIPTION
+2a7a18e2370876ce632ab9fb69766959 *NAMESPACE
+66bc2b6f62aff05df6da89c04d919ed2 *R/ah.R
+8d8c2476b91955f12d1c293e71869697 *R/ah2phase.R
+92cd0e2daa0c98a22b55239961189782 *R/nwtsco.R
+64555bf266f5ab1f12518a28b5f0f44e *R/pred.2ph.R
+66129df325283b9a75bf34656fc62ecb *R/pred.ah.R
+df29af3ec3d76cd442df153796000d3e *R/summary.R
+79e0a8b4efe1a348819ffb8cc433df05 *R/tools.R
+01056fc494ef5470c9e2a734cb93609c *data/nwtsco.rdata
+8c938884eb71fe8b6926614ec45ca9cf *man/ah.2ph.Rd
+af55f8a9b9abe5bfecb5e8ad6cfddde6 *man/ah.Rd
+fda35ff3b267ab9b2cb392a6959f2112 *man/nwtsco.Rd
+5bbcc2c6cf665f03204844e01bb54fcb *man/predict.ah.2ph.Rd
+4fbff5f302bdd9be76fe2994736fb175 *man/predict.ah.Rd
